@@ -5,6 +5,7 @@ pink
 orange
 blue
 indigo
+Recycle!
 green
 unicorn
 yellow
